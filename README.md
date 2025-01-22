@@ -3,7 +3,7 @@
 ```bash
 # Clone the repository
 
-git clone https://github.com/JizaSec/discord_getion_bot.git
+git clone https://github.com/JizaSec/Discord-Bot.git
 
 # Enter into the directory
 cd discord_getion_bot
