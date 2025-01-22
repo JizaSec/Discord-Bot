@@ -1,0 +1,12 @@
+{
+    "namebot": "Enter the name of the bot here",
+    "status": "Enter the status here",
+    "prefix": "+",
+    "token": "Enter token here",
+    "embedcolor": 1,
+    "rolecaptcha": "・Membre",
+    "joinchannel": 1039619428276514856,
+    "servername": "SSD",
+    "whitelist": [enter your id],
+    "owner": [Enter the id of owner bot]
+}
